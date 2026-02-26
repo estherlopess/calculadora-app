@@ -1,0 +1,7 @@
+git config --global user.name GalloJunior
+git config --global user.email gallojunior@gmail.com
+
+npx create-expo-app@latest calculadora --template blank
+cd calculadora
+
+npx expo start --android
