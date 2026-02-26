@@ -1,5 +1,5 @@
-git config --global user.name GalloJunior
-git config --global user.email gallojunior@gmail.com
+git config --global user.name estherlopess
+git config --global user.email estherlopes678@gmail.com
 
 npx create-expo-app@latest calculadora --template blank
 cd calculadora
