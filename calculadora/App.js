@@ -35,7 +35,7 @@ export default function App() {
  </View>
      <Display
       theme={theme}
-      expression={""}
+      expression={"100+"}
       value={0}
      />
 
