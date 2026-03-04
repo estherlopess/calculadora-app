@@ -22,7 +22,24 @@ export function createEngine ( {locale="pt-BR" } ={}) {
 
     }
     function onOperator(s,opslocale){
+
+    }
+    function onEqual(s,locale){
+
+    }
+
+    function compute(a,b,op){
+
+    }
+
+     function symbol(op){
+
+    }
+    function isDigit(k){
         
     }
+
+
+    
 
 }
